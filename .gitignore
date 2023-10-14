@@ -1,0 +1,9 @@
+
+# node modules ignore
+node_modules
+
+# bower components ignore
+bower_components
+
+# build
+build
